@@ -1,0 +1,30 @@
+/*custom  font side */
+.fs-7{
+    font-size: 12px !important;
+}
+
+/* end custom font size */
+
+/* custom color */
+.bg-light-gray{
+    background-color: #ECECEC !important;
+}
+/* custom color end*/
+
+.search-inside{
+    border: none;
+    height: 100%;
+    padding: 11px;
+    width: 90%;
+}
+.search-btn{
+    border: none;
+    height: 100%;
+    background-color: orangered;
+}
+.bg-orange{
+    background-color: orangered;
+}
+.text-orange{
+    color: orangered;
+}
