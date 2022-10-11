@@ -9,6 +9,9 @@
 .bg-light-gray{
     background-color: #ECECEC !important;
 }
+.bg-sky{
+    background-color: rgb(188, 243, 243);
+}
 /* custom color end*/
 
 .search-inside{
